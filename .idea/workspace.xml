@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94a5e133-f722-4638-88e4-ce5b5f5822a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V7lr66dnJGNGjMbe5Y711uxCpm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE" value="right" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE" value="left" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="220" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beans.Print" />
+      <module name="PrinterApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beans.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Print" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94a5e133-f722-4638-88e4-ce5b5f5822a4" name="Default Changelist" comment="" />
+      <created>1576612209535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576612209535</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1322" height="38" key="GridCell.Tab.0.bottom" timestamp="1576615118572">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="38" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576615118572" />
+    <state width="1322" height="38" key="GridCell.Tab.0.center" timestamp="1576615118572">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="38" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576615118572" />
+    <state width="1322" height="38" key="GridCell.Tab.0.left" timestamp="1576615118572">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="38" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576615118572" />
+    <state width="1322" height="38" key="GridCell.Tab.0.right" timestamp="1576615118572">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="38" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576615118572" />
+    <state x="343" y="77" key="GuiDesigner.FormSource.Dialog" timestamp="1576613774485">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="343" y="77" key="GuiDesigner.FormSource.Dialog/0.0.1366.728@0.0.1366.728" timestamp="1576613774485" />
+    <state x="453" y="243" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1576613719037">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="243" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1576613719037" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1576612556936">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1576612556936" />
+  </component>
+</project>
