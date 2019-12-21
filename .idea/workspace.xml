@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94a5e133-f722-4638-88e4-ce5b5f5822a4" name="Default Changelist" comment="" />
+    <list default="true" id="94a5e133-f722-4638-88e4-ce5b5f5822a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PrinterApp/beans/Print$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrinterApp/beans/Print$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PrinterApp/beans/Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrinterApp/beans/Print.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beans/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beans/Print.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beans/Printer.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beans/Printer.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1V7lr66dnJGNGjMbe5Y711uxCpm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE" value="right" />
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE" value="left" />
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="220" />
@@ -72,33 +85,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1322" height="38" key="GridCell.Tab.0.bottom" timestamp="1576615118572">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1576669696088">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="38" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576615118572" />
-    <state width="1322" height="38" key="GridCell.Tab.0.center" timestamp="1576615118572">
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1576669696088" />
+    <state width="1322" height="38" key="GridCell.Tab.0.bottom" timestamp="1576933219348">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="38" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576615118572" />
-    <state width="1322" height="38" key="GridCell.Tab.0.left" timestamp="1576615118572">
+    <state width="1322" height="38" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576933219348" />
+    <state width="1322" height="38" key="GridCell.Tab.0.center" timestamp="1576933219348">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="38" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576615118572" />
-    <state width="1322" height="38" key="GridCell.Tab.0.right" timestamp="1576615118572">
+    <state width="1322" height="38" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576933219348" />
+    <state width="1322" height="38" key="GridCell.Tab.0.left" timestamp="1576933219348">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="38" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576615118572" />
-    <state x="343" y="77" key="GuiDesigner.FormSource.Dialog" timestamp="1576613774485">
+    <state width="1322" height="38" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576933219348" />
+    <state width="1322" height="38" key="GridCell.Tab.0.right" timestamp="1576933219348">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="343" y="77" key="GuiDesigner.FormSource.Dialog/0.0.1366.728@0.0.1366.728" timestamp="1576613774485" />
+    <state width="1322" height="38" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576933219348" />
+    <state x="343" y="77" key="GuiDesigner.FormSource.Dialog" timestamp="1576669385407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="343" y="77" key="GuiDesigner.FormSource.Dialog/0.0.1366.728@0.0.1366.728" timestamp="1576669385407" />
     <state x="453" y="243" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1576613719037">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="453" y="243" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1576613719037" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1576612556936">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1576669426798">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1576612556936" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1576669426798" />
   </component>
 </project>

@@ -147,8 +147,8 @@ public class Print extends JFrame {
 
         button2.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
-                StringBuilder s1 = new StringBuilder();
-                StringBuilder s2 = new StringBuilder();
+                StringBuffer s1 = new StringBuffer();
+                StringBuffer s2 = new StringBuffer();
                 try {
                     int n = Integer.parseInt(textVereqSay.getText());
                     if (n < 0) {
